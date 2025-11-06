@@ -1,2 +1,2 @@
 # first-repo
-this is the begain
+This is the beginning
